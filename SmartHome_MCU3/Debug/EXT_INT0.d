@@ -1,0 +1,5 @@
+EXT_INT0.o EXT_INT0.o: ../EXT_INT0.c ../EXT_INT0.h ../BIT_MATH.h
+
+../EXT_INT0.h:
+
+../BIT_MATH.h:
